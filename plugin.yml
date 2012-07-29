@@ -1,0 +1,12 @@
+name: SpikeBlocks
+main: us.hinchy.SpikeBlocks.SpikeBlocks
+version: 1.0.0
+description: A spike block plugin for SpoutCraft.
+author: Zach Hinchy
+website: http://hinchy.us/
+depend: [Spout]
+commands:
+   spikereload:
+      description: This is the command to reload the SpikeBlocks config.
+      permission: spikeblocks.reload
+      usage: /spikereload

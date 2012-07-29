@@ -1,0 +1,5 @@
+spikeblock:
+    texture: 'http://hinchy.us/spout/spikeblock.png'
+    size: 16
+    damage: 4
+    # damage is expressed in a range from 0 to 20, each number being the amount of half-hearts dealt to a character.
